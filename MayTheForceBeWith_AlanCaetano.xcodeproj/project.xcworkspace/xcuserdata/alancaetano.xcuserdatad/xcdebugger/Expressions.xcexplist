@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ShareProfileToWebHookService.shareProfile(person:completion:):ShareProfileToWebHookService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "JSONEncoder().encode(person)">
+            </PersistentString>
+            <PersistentString
+               value = "urlRequest.httpBody">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.tableView(_:didSelectRowAt:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "person!.favorite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MasterViewController.downloadProfileImage(from:to:):MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellAt.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MasterViewController.tableView(_:cellForRowAt:):MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "cell.accessibilityIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MasterViewController.tableView(_:numberOfRowsInSection:):MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchingMorePersons">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MayTheForceBeWith_AlanCaetanoUITests.testOpenPerson():MayTheForceBeWith_AlanCaetanoUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.tables">
+            </PersistentString>
+            <PersistentString
+               value = "secondCell.exists">
+            </PersistentString>
+            <PersistentString
+               value = "firstCell.exists">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MasterViewController.downloadProfileImage(from:to:):MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellAt.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.tableView(_:cellForRowAt:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "person!.favorite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MasterViewController.emptySearchBar():MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
